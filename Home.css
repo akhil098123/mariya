@@ -2,8 +2,9 @@
   min-height: 670px;
 }
 .header{
-  height:12px;
+  height:24px;
   width: 100%;
+ position: fixed;
 }
 .u-section-1 .u-layout-wrap-1 {
   margin: 0 auto 0 0;
