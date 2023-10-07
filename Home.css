@@ -2,9 +2,10 @@
   min-height: 670px;
 }
 .header{
+ position : sticky;
   height:24px;
   width: 100%;
- position: fixed;
+
 }
 .u-section-1 .u-layout-wrap-1 {
   margin: 0 auto 0 0;
